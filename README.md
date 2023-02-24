@@ -1,3 +1,6 @@
+![aokana](https://user-images.githubusercontent.com/10304206/221231485-6b6f3169-98cd-4f99-a823-bee4e89a47ce.png)
+
+
 Hello!
 
 I'm **NeterOster**, a student studying in School of Mathematical Science, South China Normal University (SCNU).
